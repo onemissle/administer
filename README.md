@@ -1,12 +1,21 @@
+> [!WARNING]  
+> This is an archive of the code pushed during my time at Administer. I simply made it because I was unhappy with what was happening in [upstream](https://github.com/administer-org/administer) by the new owner. 
+> 
+> If you are looking to download modern "v1" Administer, go there. However, if you want the unmaintained-but-will-still-work-with-AOS 2.2.0 link, here is a conveniently placed [download link for my model](https://create.roblox.com/store/asset/127698208806211). For era-appropriate AOS please visit [pyxfluff/administer-aos](https://github.com/pyxfluff/administer-aos). Unfortunately the new owner does not seen to believe in open source like I do but forks of this repository and 2.2.0 are still welcome. I don't know what's happening with the rest of the repositories, I can only make so much change happen under new leadership. I have tried fighting for the best but all I ever get back is excuses and unkept promises.
+>
+> Due to lack of compliance I shut down existing web services, so old stuff 2.2.0 relied on such as the Router are unreliable at best and [should be forked](https://github.com/administer-org/router) for personal use. However we only ran stuff that was open source (Weblate, Plausible, etc) or created stuff that was so you can 100% duplicate the old infrastructure if you would like. When a repository is updated, if I'm unhappy with a change made I'll push a 2.2.0-era repository to my account too.
+>
+> \- Sincerely, an old project manager who still cares 🫡
+
 <div align="center">
  
 ![Administer|65%](/.readme/Administer-Text.png)
 
 # Simple & Open Administration
 
-[![administer-org - administer](https://img.shields.io/static/v1?label=administer-org&message=administer&color=blue&logo=github)](https://github.com/administer-org/administer "Go to GitHub repo") [![stars - administer](https://img.shields.io/github/stars/administer-org/administer?style=social)](https://github.com/administer-org/administer) [![forks - administer](https://img.shields.io/github/forks/administer-org/administer?style=social)](https://github.com/administer-org/administer) [![translation status](https://translate.admsoftware.org/widget/administer/svg-badge.svg?native=1)](https://translate.admsoftware.org)
+[![pyxfluff - administer](https://img.shields.io/static/v1?label=pyxfluff&message=administer&color=blue&logo=github)](https://github.com/pyxfluff/administer "Go to GitHub repo") [![stars - administer](https://img.shields.io/github/stars/administer-org/administer?style=social)](https://github.com/pyxfluff/administer) [![forks - administer](https://img.shields.io/github/forks/administer-org/administer?style=social)](https://github.com/pyxfluff/administer) [![translation status](https://translate.admsoftware.org/widget/administer/svg-badge.svg?native=1)](https://translate.admsoftware.org)
 
-[![License](https://img.shields.io/badge/License-GNU--AGPL--3.0-blue)](#license) [![issues - administer](https://img.shields.io/github/issues/administer-org/administer)](https://github.com/administer-org/administer/issues) [![Hits-of-Code](https://hitsofcode.com/github/administer-org/administer?branch=main)](https://hitsofcode.com/github/administer-org/administer/view?branch=main)
+[![License](https://img.shields.io/badge/License-GNU--AGPL--3.0-blue)](#license) [![issues - administer](https://img.shields.io/github/issues/pyxfluff/administer)](https://github.com/pyxfluff/administer/issues) [![Hits-of-Code](https://hitsofcode.com/github/pyxfluff/administer?branch=main)](https://hitsofcode.com/github/pyxfluff/administer/view?branch=main)
 
 
 ### [Install from Roblox](https://create.roblox.com/store/asset/127698208806211/Administer) · [DevForum Topic](https://devforum.roblox.com/t/administer-modern-modular-free-admin-system-12/3179989) · [Development Trello](https://trello.com/b/GA5Kc0vB/administer) · [Documentation](https://docs.admsoftware.org)
